@@ -3,8 +3,8 @@ movie recommentation project for mlp
 
 ### 설명 
 자연어 처리 기법을 활용한 영화추천 서비스 구현
-사용한 전처리 모듈:
-사용 모델: word2vector, wdf, tfidf
+- 사용한 전처리 모듈:
+- 사용 모델: word2vector, wdf, tfidf
 
 ## 과정 
 자연어 과정
